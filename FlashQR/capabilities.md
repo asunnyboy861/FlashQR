@@ -43,5 +43,5 @@ Based on operation guide analysis, the following capabilities are required:
 
 ## Verification
 
-- Build succeeded after configuration: ⏳ Pending
-- All entitlements correct: ⏳ Pending
+- Build succeeded after configuration: ✅ Verified
+- All entitlements correct: ✅ Verified
